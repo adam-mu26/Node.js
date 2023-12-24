@@ -23,7 +23,7 @@ console.log(listoffiles);
 //5. another fs method //
 fs.rmSync('./notes2.txt')
 
-fs.appendFileSync('Death Note.txt', 'blue is coming')
+fs.appendFileSync('Death Note.txt', ' blue is coming for you')
 
 
 
